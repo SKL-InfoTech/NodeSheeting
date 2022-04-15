@@ -1,0 +1,24 @@
+{
+  "name": "nodesheeting",
+  "version": "0.1.0",
+  "description": "Lib focusing on transforming JSON into CSV and XLSX.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKL-InfoTech/NodeSheeting.git"
+  },
+  "keywords": [
+    "json",
+    "xlsx",
+    "csv"
+  ],
+  "author": "SKL INFOTECH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SKL-InfoTech/NodeSheeting/issues"
+  },
+  "homepage": "https://github.com/SKL-InfoTech/NodeSheeting#readme"
+}
